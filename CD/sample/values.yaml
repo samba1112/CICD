@@ -8,7 +8,7 @@ image:
   repository: samba1112/cicd-project
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 72828:8888
+  tag: 6772:hs/g
 
 imagePullSecrets: []
 nameOverride: ""
